@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jsdom": "^26.0.0",
+    "jszip": "^3.10.1",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
